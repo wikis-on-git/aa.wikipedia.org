@@ -1,0 +1,74 @@
+==Welcome==
+en: Please note, as I did preeceding this, whenever using a langauge other than afar. We do not have any speakers of the language it seems at the moment. Thank you! [[User:Aeæ|Aeæ]] 02:56, 6 July 2006 (UTC)
+
+==[[Kurów]]==
+
+Could they please write a stub http://aa.wikipedia.org/wiki/Kur%C3%B3w - just a few sentences based on http://en.wikipedia.org/wiki/Kur%C3%B3w ? Only 2 -5 sentences enough. Please. [[:pl:User:Pietras1988|Pietras1988]] 12:34, 18 February 2006 (UTC)
+
+== Bot bit request [[User:SieBot|SieBot]] ==
+Please give a bot bit to [[User:SieBot|SieBot]], so it will not flood your RC as it adds interwiki links using pywikipedia's interwiki.py. [[User:SieBot|SieBot]] is active on about 160 Wikipedias. See the [[User:SieBot|user page]] of the bot for more details, or check a complete overview of its activities [[:nl:Gebruiker:SieBot/Overview|here]]. Cheers! [[User:Siebrand|Siebrand]] ([[:nl:User talk:Siebrand|talk]]) 08:21, 17 August 2007 (UTC)
+
+: '''Done.''' <small>—[[m:user:Pathoschild/s|Pathoschild]] 04:36, 3 September 2007 (UTC)</small>
+
+== Bot bit [[user:BotMultichill|BotMultichill]] ==
+I request a bot bit for [[user:BotMultichill|BotMultichill]]. Bot is active on a lot of wiki's (100+ with botbit) and i want to run the bot here too without flooding the [[Special:Recentchanges|recent changes]]. [[User:Multichill|Multichill]] 20:49, 27 August 2007 (UTC)
+
+==Betawiki: better support for your language in MediaWiki ==
+Dear community. I am writing to you to promote a special wiki called [http://nike.users.idler.fi/betawiki Betawiki]. This wiki facilitates the localisation (l10n) of the MediaWiki interface. You may have changed many messages here on Wikipedia to use your language for your language profile, but if you would log in to for example the English language Wiktionary, you would not be able to use the interface as well translated as here. Infact, of the 1792 messages in the core of MediaWiki, 0 messages have been translated. Betawiki also supports the translation of messages of over 75 extensions, with 981 messages.
+
+If you wish to contribute to better support of your language in MediaWiki, as well as for many MediaWiki extensions, please visit [http://nike.users.idler.fi/betawiki/Translating:Intro Betawiki], [http://nike.users.idler.fi/dev/?title=Special:Userlogin&type=signup&uselang=en create an account] and [http://nike.users.idler.fi/betawiki/Betawiki:Rights request translator priviledges]. You can see the current status of localisation of your language on [[meta:Localization_statistics|meta]] and do not forget to get in touch with others that may already be [http://nike.users.idler.fi/betawiki/Translating:Languages working on your language on Betawiki].
+
+If you have any further questions, [http://nike.users.idler.fi/betawiki/User_talk:Siebrand please let me know on my talk page on Betawiki]. We will try and assist you as much as possible, for example by importing all messages from a local wiki for you to start with, if you so desire.
+
+You can also find us on the Freenode [[wikipedia:Internet Relay Chat|IRC]] network in the channel #mediawiki-i18n where we would be happy to help you get started.
+
+Thank you very much for your attention and I do hope to see some of you on [http://nike.users.idler.fi/betawiki/Etusivu Betawiki] soon! Cheers! [http://nike.users.idler.fi/betawiki/User:Siebrand Siebrand@Betawiki] 09:13, 20 September 2007 (UTC)
+
+== [[User:AlleborgoBot|AlleborgoBot]] ==
+Hi, AlleborgoBot is an interwiki bot run by [[:it:Utente:Alleborgo|Alleborgo]] starting at the italian wikipedia. The bot uses the pywikipedia framework daily updated to the last SVN version. The Bot runs in autonomous, but sometimes, it will run in manual assisted mode to solve interwiki conflicts. Already has a bot flag in ar, am, an, ast, az, bar, bat-smg, bg, br, bn, bpy, bs, ca, ceb, cs, cv, da, de, el, en, eo, es, et, eu, fa, fi, fiu-vro, fr, frp, fy, ga, gl, he, hr, hsb, ht, hu, hy, id, is, it, iu, ja, jv, ka, kk, ksh, ku, lb, li, lmo, ln, lt, lv, mk, mi, ml, mr, ms, mt, nap, nds, nds-nl, nl, nn, no, pl, pms, ps, pt, ro, roa-tara, ru, sco, sh, sk, simple, sl, sq, sr, su, sv, ta, tg, th, to, tr, tt, uk, ur, vec, vi, vls, vo, zh, zh-classical, zh-min-nan, zh-yue. On it wiki has done more than 65000 edit. Now I'm requesting the flag here, thanks  --[[User:AlleborgoBot|AlleborgoBot]] 14:35, 2 November 2007 (UTC)
+: Done. [[m:User:Sj|Sj]] 19:46, 16 December 2007 (UTC)
+== [[User:Alexbot|Alexbot]] ==
+Alexbot is an interwiki bot run by [[:zh:User:Alexsh]], use pywikipedia, run autonomous.All languages flag statistics in [[:zh:User:Alexbot]], I request the flag in here, thanks--[[User:Alexsh|Alexsh]] 11:40, 5 January 2008 (UTC)
+:'''Done''' --[[User:Dungodung|Dungodung]] 16:51, 26 January 2008 (UTC)
+
+== [[:User:Purbo_T|Purbo_T]] ==
+<div lang="en" dir="ltr" style="text-align:left">
+Hi, I'd like to request a bot flag for  [[:User:Purbo_T|Purbo_T]]
+*'''Operator''': [[:User:Purodha]] = [[:ksh:User:Purodha]] (b'crat @ [[:ksh:|ksh]])
+*'''Function''': interwiki link maintenance
+*'''Operation''':  manually-assisted, occasionally in automatic or autonomous mode, starting mostly from the [[:ksh:|Wikipedia of Ripuarian languages]]
+*'''Software:''' [[:meta:pywikipedia|pywikipediabot]] framework updated daily from [http://svn.wikimedia.org/svnroot/pywikipedia/trunk/pywikipedia/ svn] to latest version
+*'''Already has bot flag on:''' [[:am:|am]], [[:ar:|ar]], [[:be-x-old:|be-x-old]], [[:bn:|bn]], [[:bo:|bo]], [[:bxr:|bxr]], [[:cdo:|cdo]], [[:co:|co]], [[:crh:|crh]], [[:dsb:|dsb]], [[:dz:|dz]], [[:fa:|fa]], [[:fr:|fr]], [[:gv:|gv]], [[:hr:|hr]], [[:hsb:|hsb]], [[:ht:|ht]], [[:ig:|ig]], [[:ksh:|ksh]], [[:ku:|ku]], [[:lbe:|lbe]], [[:lmo:|lmo]], [[:ml:|ml]], [[:mr:|mr]], [[:nds:|nds]], [[:nl:|nl]], [[:pms:|pms]], [[:simple:|simple]], [[:stq:|stq]], [[:sv:|sv]], [[:tg:|tg]], [[:ts:|ts]], [[:vec:|vec]], [[:vi:|vi]], [[:vo:|vo]], more pending, [http://tools.wikimedia.de/~purodha/sample/dbswithuser.php?usr=Purbo_T recent&nbsp;data] (sorry, the [[:m:toolserver|toolserver]] is having technical problems at the moment, partial data is at the end)
+Thank you! --[[User:Purodha|Purodha Blissenbach]] 19:55, 3 February 2008 (UTC)
+</div>
+
+==[[:fr:Utilisateur:Alecs.bot|Alecs.bot]]==
+
+I'd like to request a bot flag for interwiki bot Alecs.bot.
+
+* '''Operator''': [[User:Alecs.y|Alecs.y]] or [[:fr:User:Alecs.y|fr:Alecs.y]]
+* '''Bot user page''': [[User:Alecs.bot|Alecs.bot]]
+* '''Function''': interwiki link maintenance
+* '''Software''': Pywikipedia
+* '''Already has bot flag on''': [[:als:Special:Contributions/Alecs.bot|als]], [[:ast:Special:Contributions/Alecs.bot|ast]], [[:de:Special:Contributions/Alecs.bot|de]], [[:eo:Special:Contributions/Alecs.bot|eo]], [[:es:Special:Contributions/Alecs.bot|es]], [[:fr:Special:Contributions/Alecs.bot|fr]], [[:it:Special:Contributions/Alecs.bot|it]]
+
+Thank you! -- [[User:Alecs.y|Alecs.y]] 18:24, 19 February 2008 (UTC)
+
+=== [[User:CarsracBot|CarsracBot]] ===
+I would like to get a bot-flag on this wiki.
+*'''Operator:''' [[:nl:User:Carsrac]]
+*'''Purpose:''' Interwiki links: It adds/modifies/deletes interwiki links.
+*'''Software:''' pywikipediabot framework via SVN
+*'''Already has bot flag on:''' nl, en, nap, sq, tr and many more look at this [http://tools.wikimedia.de/~vvv/sulutil.php?user=CarsracBot&rights=1 alternative page])
+Thanks [[User:Carsrac|Carsrac]] 16:27, 17 June 2008 (UTC)
+
+==Wikimania Scholarships==
+The call for applications for Wikimania Scholarships to attend Wikimania 2010 in Gdansk, Poland (July 9-11) is now open. The Wikimedia Foundation offers Scholarships to pay for selected individuals' round trip travel, accommodations, and registration at the conference.
+To apply, visit the [[wm2010:Main Page|Wikimania 2010]] [[wm2010:Scholarships|scholarships information page]], click the secure link available there, and fill out the form to apply.
+For additional information, please visit the Scholarships information and FAQ pages:
+* [[wm2010:Scholarships|Scholarships]]
+* [[wm2010:Scholarships/FAQ|Scholarships FAQ]]
+Yours very truly,
+[[m:User:Cary Bass|Cary Bass]]</br>
+Volunteer Coordinator</br>
+Wikimedia Foundation
